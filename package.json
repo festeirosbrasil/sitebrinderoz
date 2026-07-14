@@ -1,0 +1,19 @@
+{
+  "name": "brinderoz-website",
+  "version": "1.0.0",
+  "description": "Site institucional do Brinderoz - ERP para empresas de personalizados",
+  "main": "index.html",
+  "scripts": {
+    "build": "node gerar-sitemap.js"
+  },
+  "keywords": [
+    "brinderoz",
+    "erp",
+    "personalizados",
+    "sublimacao",
+    "estamparia"
+  ],
+  "author": "Brinderoz",
+  "license": "UNLICENSED",
+  "private": true
+}
